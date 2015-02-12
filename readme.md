@@ -1,3 +1,5 @@
 # npm-practice
 
-I'm learning how to npm with [how-to-npm](https://github.com/npm/how-to-npm)
+I'm learned how to npm with [how-to-npm](https://github.com/npm/how-to-npm)
+
+![completed!](completed.png)
