@@ -1,0 +1,19 @@
+{
+  "name": "npm-practice",
+  "version": "0.0.0",
+  "description": "armno's first npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:armno/npm-practice.git"
+  },
+  "author": "armno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armno/npm-practice/issues"
+  },
+  "homepage": "https://github.com/armno/npm-practice"
+}
