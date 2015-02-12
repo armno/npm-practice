@@ -16,9 +16,7 @@
     "url": "https://github.com/armno/npm-practice/issues"
   },
   "homepage": "https://github.com/armno/npm-practice",
-  "dependencies": {
-    "once": "^1.3.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "keywords": [
     "practice"
